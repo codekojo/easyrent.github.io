@@ -1,0 +1,9 @@
+.coverImage {
+  background-image: url("bgimg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
